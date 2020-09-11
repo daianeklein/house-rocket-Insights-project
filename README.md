@@ -6,8 +6,8 @@
 
 O objetivo deste projeto é gerar insights através da Análise exploratória de dados.
 
-O case ficitício é de uma empresa de compra e venda de imóveis que tem como propósito maximizar a receita aproveitando as melhores oportunidades no mercado imobiliario. 
-Ao final da análise, o projeto visa entender a relação entre o preço e os atributos dos imóveis e entao responder algumas perguntas de negócio.
+O case ficitício é de uma empresa de compra e venda de imóveis que tem como propósito maximizar a receita aproveitando as melhores oportunidades no mercado imobiliário. 
+Ao final da análise, o projeto visa entender a relação entre o preço e os atributos dos imóveis e então responder algumas perguntas de negócio.
 <br>
 <br>
 </br>
